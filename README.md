@@ -1,4 +1,4 @@
-# Sports_Person_Face_Recognition
+# Sports Person Face Recognition
 ---
 Welcome to the Celebrity Face Recognition WebApp project! This data science and machine learning project focuses on classifying sports personalities using facial recognition. The project involves several steps including data collection, preprocessing, feature extraction, model training, and deployment as a web application.
 
